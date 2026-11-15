@@ -1,0 +1,180 @@
+LIVE on-chain markets via Reader.getMarkets: 146 (L2 block 524366058)
+dump markets: 131; dump marketTokens live on-chain: 131
+live markets NOT in dump: 15
+
+=== NO-FEED TOKENS: 46 ===
+0x0315441076ff6d3ea09814a2f90a1f980cf03e9e ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: SPY/USD [ETH-USDC] isListed(dump)=True live=True
+0x0739ad7aea69ad36edeb91b0e55cac140427c632 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: DYDX/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0x1fd10e767187a92f0ab2abdeef4505e319ca06b2 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: BONK/USD [ETH-USDC] isListed(dump)=True live=True
+0x37a645648df29205c6261289983fb04ecd70b4b3 ANIME    idx(dump)=1 idx(live)=1 long=1 short=0 :: LIVE-LISTED-INDEX
+    indexToken: ANIME/USD [ANIME-USDC] isListed(dump)=True live=True
+    longToken: ANIME/USD [ANIME-USDC] isListed(dump)=True live=True
+0x3aebb98f57081dcbeb0b8ea823cf84900a31e5d8 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: FIL/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0x426fe015a5f4e6ad4e6497ad79265d07ea9f121e ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: DASH/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0x4c1dac9b6eaf122fe3de824c1c2220413f3ac197 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: PENGU/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0x5979d7b546e38e414f7e9822514be443a4800529 wstETH   idx(dump)=0 idx(live)=0 long=2 short=0 :: long/short-only
+    longToken: ETH/USD [wstETH-USDe] isListed(dump)=True live=True
+    longToken: SWAP-ONLY [wstETH-ETH] isListed(dump)=True live=True
+0x5db4692926c8ceebf6da0995358bbc438f3fd80c ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: CHZ/USD [ETH-USDC] isListed(dump)=True live=True
+0x606c3e5075e5555e79aa15f1e9facb776f96c248 EIGEN    idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: EIGEN/USD [ETH-USDC] isListed(dump)=True live=True
+0x620ac65be29066bb9d1e92c65b35b9fd321fb963 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: NATGAS/USD [ETH-USDC] isListed(dump)=True live=True
+0x6792c5b8962ffbdd020c6b6fd0be7b182e0e33a3 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: FLOKI/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0x72cd3a21aa7a898028d9501868fbe6ded0020434 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: ALGO/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0x75b9add873641b253718810e6c65db6d72311fd0 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: WLD/USD [ETH-USDC] isListed(dump)=True live=True
+0x7624ccccc59361d583f28bec40d37e7771d2ef5d ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: XAUT.v2/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0x7f2a3967bd0999a860e13ab8dc34af98675cc208 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: CC/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0x82bb89fcc64c5d4016c5ed1ab016bb0d1c20d6c3 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: RENDER/USD [ETH-USDC] isListed(dump)=True live=True
+0x83d5944e7f5ef1d8432002d3cb062e1012f6f8e6 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: FET/USD [ETH-USDC] isListed(dump)=True live=True
+0x84d523493aac127025ac770981a54c9601326a41 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: MET/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0x91c6a8f6afac036f4abf1ba55f4e76892e865e4a ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: KAS/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0x97ce1f309b949f7fbc4f58c5cb6aa417a5ff8964 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: DOLO/USD [ETH-USDC] isListed(dump)=True live=True
+0x9c5c4b9ba1feba72186f50d8ae7c58b1d7f0b12f ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: BRENTOIL/USD [ETH-USDC] isListed(dump)=True live=True
+0xa8ffb545d5cbf1f44e3eba123d60372cd267d73c ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: WTIOIL/USD [ETH-USDC] isListed(dump)=True live=True
+0xaca341e61ab6177b0b0df46a612e4311f8a7605f ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: FARTCOIN/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0xb06aa7e4af937c130ddade66f6ed7642716fe07a ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: TRX/USD [ETH-USDC] isListed(dump)=True live=True
+0xb6672496214c90134a9223894e709f26a5eed362 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: VIRTUAL/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0xb736be525a65326513351058427d1f47b0cfb045 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: SPX6900/USD [ETH-USDC] isListed(dump)=True live=True
+0xc33d9c096e74aa4f571e9417b69a19c4a1e72ef2 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: BCH/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0xc4017cfe7d7eabde63d3252cabf26a286fe2b1e0 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: LINEA/USD [ETH-USDC] isListed(dump)=True live=True
+0xc48d782c5c54157d37d2fa4e6ba27e8cf57da956 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: GOLD/USD [ETH-USDC] isListed(dump)=True live=True
+0xc5dbd52ae5a927cf585b884011d0c7631c9974c6 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: XLM/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0xc5ff0eb026db972f95df3dff04e697d8b660092a ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: ZORA/USD [ETH-USDC] isListed(dump)=True live=True
+0xca543cb8bcc76e4e0a034f56eb40a1029bdfd70e ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: AIXBT/USD [ETH-USDC] isListed(dump)=True live=True
+0xcf558864c6b130ce76d20641d008ebd4871eded0 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: XAUT (deprecated)/USD [WBTC.b-USDC] isListed(dump)=False live=True
+0xd37f01a3379f052fef70f63c0be27931891aa2b9 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: OKB/USD [ETH-USDC] isListed(dump)=True live=True
+0xd3898c6570974aeca38a8acf22fd60739e528a99 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: MOODENG/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0xdaf0a71608938f762e37ec5f72f670cc44703454 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: ICP/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0xdb58eb7f408eba2176ecb44a4696292605cceb39 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: AVNT/USD [ETH-USDC] isListed(dump)=True live=True
+0xe41902f9ad379a8cc34a34efa00f5c3ee5112bc8 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: SILVER/USD [ETH-USDC] isListed(dump)=True live=True
+0xeb2a83b973f4dbb9511d92dd40d2ba4c683f0971 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: HBAR/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0xecfb4718ad19b626a77491895a2f99ea0ceded08 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: ONDO/USD [ETH-USDC] isListed(dump)=True live=True
+0xeea41cea2204d1156de1bdf2cf4ab6184d17f90b ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: SKY/USD [ETH-USDC] isListed(dump)=True live=True
+0xf01d2aa2f3f903a93d57c4bf672c8096de485fa7 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: JTO/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0xfde73eddbe6c5712a12b72c470f8fe5c77a7ff17 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: INJ/USD [WBTC.b-USDC] isListed(dump)=True live=True
+0xfe71d55d0080b6995ec2c3f48b7702c86e200766 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: QQQ/USD [ETH-USDC] isListed(dump)=True live=True
+0xfed500df379427fbc48bdaf3b511b519c7eccd26 ?        idx(dump)=1 idx(live)=1 long=0 short=0 :: LIVE-LISTED-INDEX
+    indexToken: JUP/USD [WBTC.b-USDC] isListed(dump)=True live=True
+
+=== NO-FEED INDEX TOKENS IN LIVE-LISTED MARKETS: 45 ===
+  0x0315441076ff6d3ea09814a2f90a1f980cf03e9e ?: ['SPY/USD [ETH-USDC]']
+  0x0739ad7aea69ad36edeb91b0e55cac140427c632 ?: ['DYDX/USD [WBTC.b-USDC]']
+  0x1fd10e767187a92f0ab2abdeef4505e319ca06b2 ?: ['BONK/USD [ETH-USDC]']
+  0x37a645648df29205c6261289983fb04ecd70b4b3 ANIME: ['ANIME/USD [ANIME-USDC]']
+  0x3aebb98f57081dcbeb0b8ea823cf84900a31e5d8 ?: ['FIL/USD [WBTC.b-USDC]']
+  0x426fe015a5f4e6ad4e6497ad79265d07ea9f121e ?: ['DASH/USD [WBTC.b-USDC]']
+  0x4c1dac9b6eaf122fe3de824c1c2220413f3ac197 ?: ['PENGU/USD [WBTC.b-USDC]']
+  0x5db4692926c8ceebf6da0995358bbc438f3fd80c ?: ['CHZ/USD [ETH-USDC]']
+  0x606c3e5075e5555e79aa15f1e9facb776f96c248 EIGEN: ['EIGEN/USD [ETH-USDC]']
+  0x620ac65be29066bb9d1e92c65b35b9fd321fb963 ?: ['NATGAS/USD [ETH-USDC]']
+  0x6792c5b8962ffbdd020c6b6fd0be7b182e0e33a3 ?: ['FLOKI/USD [WBTC.b-USDC]']
+  0x72cd3a21aa7a898028d9501868fbe6ded0020434 ?: ['ALGO/USD [WBTC.b-USDC]']
+  0x75b9add873641b253718810e6c65db6d72311fd0 ?: ['WLD/USD [ETH-USDC]']
+  0x7624ccccc59361d583f28bec40d37e7771d2ef5d ?: ['XAUT.v2/USD [WBTC.b-USDC]']
+  0x7f2a3967bd0999a860e13ab8dc34af98675cc208 ?: ['CC/USD [WBTC.b-USDC]']
+  0x82bb89fcc64c5d4016c5ed1ab016bb0d1c20d6c3 ?: ['RENDER/USD [ETH-USDC]']
+  0x83d5944e7f5ef1d8432002d3cb062e1012f6f8e6 ?: ['FET/USD [ETH-USDC]']
+  0x84d523493aac127025ac770981a54c9601326a41 ?: ['MET/USD [WBTC.b-USDC]']
+  0x91c6a8f6afac036f4abf1ba55f4e76892e865e4a ?: ['KAS/USD [WBTC.b-USDC]']
+  0x97ce1f309b949f7fbc4f58c5cb6aa417a5ff8964 ?: ['DOLO/USD [ETH-USDC]']
+  0x9c5c4b9ba1feba72186f50d8ae7c58b1d7f0b12f ?: ['BRENTOIL/USD [ETH-USDC]']
+  0xa8ffb545d5cbf1f44e3eba123d60372cd267d73c ?: ['WTIOIL/USD [ETH-USDC]']
+  0xaca341e61ab6177b0b0df46a612e4311f8a7605f ?: ['FARTCOIN/USD [WBTC.b-USDC]']
+  0xb06aa7e4af937c130ddade66f6ed7642716fe07a ?: ['TRX/USD [ETH-USDC]']
+  0xb6672496214c90134a9223894e709f26a5eed362 ?: ['VIRTUAL/USD [WBTC.b-USDC]']
+  0xb736be525a65326513351058427d1f47b0cfb045 ?: ['SPX6900/USD [ETH-USDC]']
+  0xc33d9c096e74aa4f571e9417b69a19c4a1e72ef2 ?: ['BCH/USD [WBTC.b-USDC]']
+  0xc4017cfe7d7eabde63d3252cabf26a286fe2b1e0 ?: ['LINEA/USD [ETH-USDC]']
+  0xc48d782c5c54157d37d2fa4e6ba27e8cf57da956 ?: ['GOLD/USD [ETH-USDC]']
+  0xc5dbd52ae5a927cf585b884011d0c7631c9974c6 ?: ['XLM/USD [WBTC.b-USDC]']
+  0xc5ff0eb026db972f95df3dff04e697d8b660092a ?: ['ZORA/USD [ETH-USDC]']
+  0xca543cb8bcc76e4e0a034f56eb40a1029bdfd70e ?: ['AIXBT/USD [ETH-USDC]']
+  0xcf558864c6b130ce76d20641d008ebd4871eded0 ?: ['XAUT (deprecated)/USD [WBTC.b-USDC]']
+  0xd37f01a3379f052fef70f63c0be27931891aa2b9 ?: ['OKB/USD [ETH-USDC]']
+  0xd3898c6570974aeca38a8acf22fd60739e528a99 ?: ['MOODENG/USD [WBTC.b-USDC]']
+  0xdaf0a71608938f762e37ec5f72f670cc44703454 ?: ['ICP/USD [WBTC.b-USDC]']
+  0xdb58eb7f408eba2176ecb44a4696292605cceb39 ?: ['AVNT/USD [ETH-USDC]']
+  0xe41902f9ad379a8cc34a34efa00f5c3ee5112bc8 ?: ['SILVER/USD [ETH-USDC]']
+  0xeb2a83b973f4dbb9511d92dd40d2ba4c683f0971 ?: ['HBAR/USD [WBTC.b-USDC]']
+  0xecfb4718ad19b626a77491895a2f99ea0ceded08 ?: ['ONDO/USD [ETH-USDC]']
+  0xeea41cea2204d1156de1bdf2cf4ab6184d17f90b ?: ['SKY/USD [ETH-USDC]']
+  0xf01d2aa2f3f903a93d57c4bf672c8096de485fa7 ?: ['JTO/USD [WBTC.b-USDC]']
+  0xfde73eddbe6c5712a12b72c470f8fe5c77a7ff17 ?: ['INJ/USD [WBTC.b-USDC]']
+  0xfe71d55d0080b6995ec2c3f48b7702c86e200766 ?: ['QQQ/USD [ETH-USDC]']
+  0xfed500df379427fbc48bdaf3b511b519c7eccd26 ?: ['JUP/USD [WBTC.b-USDC]']
+
+=== ZERO-PROVIDER TOKENS ===
+oracle 0x26C02F221e zero-provider: 0x74885b4d524d497261259b38900f54e6dbad2210 APE
+    indexToken: APE_deprecated (deprecated)/USD [APE_deprecated (deprecated)-USDC] isListed=False live=True
+    longToken: APE_deprecated (deprecated)/USD [APE_deprecated (deprecated)-USDC] isListed=False live=True
+oracle 0x7F01614cA5 zero-provider: 0x004b506865409877c9fa29bfb1eba929984b9bbc USDG
+    longToken: BTC/USD [USDG-USDG] isListed=True live=True
+    shortToken: BTC/USD [USDG-USDG] isListed=True live=True
+    longToken: ETH/USD [USDG-USDG] isListed=True live=True
+    shortToken: ETH/USD [USDG-USDG] isListed=True live=True
+    longToken: SOL/USD [USDG-USDG] isListed=True live=True
+    shortToken: SOL/USD [USDG-USDG] isListed=True live=True
+    shortToken: SWAP-ONLY [USDC-USDG] isListed=True live=True
+    longToken: NEAR/USD [USDG-USDG] isListed=True live=True
+    shortToken: NEAR/USD [USDG-USDG] isListed=True live=True
+    longToken: XRP/USD [USDG-USDG] isListed=True live=True
+    shortToken: XRP/USD [USDG-USDG] isListed=True live=True
+    longToken: ZEC/USD [USDG-USDG] isListed=True live=True
+    shortToken: ZEC/USD [USDG-USDG] isListed=True live=True
+    longToken: HYPE/USD [USDG-USDG] isListed=True live=True
+    shortToken: HYPE/USD [USDG-USDG] isListed=True live=True
+oracle 0x7F01614cA5 zero-provider: 0x74885b4d524d497261259b38900f54e6dbad2210 APE
+    indexToken: APE_deprecated (deprecated)/USD [APE_deprecated (deprecated)-USDC] isListed=False live=True
+    longToken: APE_deprecated (deprecated)/USD [APE_deprecated (deprecated)-USDC] isListed=False live=True
+
+=== MAJORS feed check ===
+  SOL 0x2bcc6d6cdbbdc0a4071e48bb3b969b06b3330c07 feed=YES
+  WBTC 0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f feed=YES
+  WETH 0x82af49447d8a07e3bd95bd0d56f35241523fbab1 feed=YES
+  ARB 0x912ce59144191c1204e64559fe8253a0e49e6548 feed=YES
+  USDC 0xaf88d065e77c8cc2239327c5edb3a432268e5831 feed=YES
+  LINK 0xf97f4df75117a78c1a5a0dbb814af92458539fb4 feed=YES
+  GMX 0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a feed=YES
+  USDC 0xff970a61a04b1ca14834a43f5de4533ebddb5cc8 feed=YES
